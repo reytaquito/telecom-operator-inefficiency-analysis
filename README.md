@@ -14,6 +14,13 @@ This repository provides:
 2. **Identification** of inefficient operators based on key metrics.  
 3. **Statistical Testing** (hypothesis tests) to confirm whether observed inefficiencies are significant.
 
+## Notebooks
+
+- 📊 `EDA_Telecom_Inefficiencies.ipynb`  
+  This notebook contains a comprehensive exploratory data analysis of telecom operator performance. It includes data cleaning, visualization of inefficiency metrics across regions and time periods, and business insights to identify key inefficiency drivers.
+
+- 🤖 `Clustering_Telecom_Operators.ipynb`  
+  This notebook applies unsupervised machine learning (K-Means clustering) to segment telecom operators based on performance metrics. The goal is to identify groups of operators with similar behavior and highlight clusters representing inefficient performance profiles.
 ---
 
 ## 🗂️ Data Description
